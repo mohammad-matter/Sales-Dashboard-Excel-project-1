@@ -26,7 +26,8 @@ The following Excel skills were utilized for analysis:
 ## Dashboard Overview
 
 
-![dashboard_demo](https://github.com/user-attachments/assets/b9de8c19-2d9c-4d4e-bf32-0d6bd6f50b70)
+![dashboard_demo](![dashboard_demo_hq](https://github.com/user-attachments/assets/27f28321-fd6f-4e4e-b837-226d8b22a5f1)
+
 
 
 ## Dashboard Build
