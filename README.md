@@ -1,4 +1,4 @@
-# 📊 Superstore Executive Dashboard
+# 📊 Sales Dashboard | Excel Project
 
 ## Background
 
